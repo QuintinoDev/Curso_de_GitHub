@@ -1,2 +1,3 @@
 # Curso_de_GitHub
- Curso de GitHub para Iniciantes
+ Material do curso de Git e GitHub.
+ Como usar **Markdown**, dentro do GitHub.
